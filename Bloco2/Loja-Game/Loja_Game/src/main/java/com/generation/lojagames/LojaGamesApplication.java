@@ -1,4 +1,4 @@
-package com.generation.Loja_Games;
+package com.generation.lojagames;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
